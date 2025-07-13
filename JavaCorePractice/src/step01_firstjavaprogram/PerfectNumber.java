@@ -28,6 +28,5 @@ public class PerfectNumber {
 		Scanner sc = new Scanner(System.in);
 		number = sc.nextInt();
 		PerfectNumber.isPerfectNumber(number);
-		
 	}
 }
